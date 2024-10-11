@@ -1,3 +1,5 @@
-const logPresent = (`i'm here`);
+const logPresent = () => {
+  console.log(`I'm here!`)
+};
 
-console.log(logPresent)
+// logPresent();
